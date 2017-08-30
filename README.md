@@ -12,6 +12,12 @@ Nama Sekolah: SMK Telkom Malang
 # NAMA APLIKASI
 Guess the Composer!
 
+# LINK FILE APK:
+Anda bisa mendapatkan aplikasi ini dengan dengan cara Klik tulisan di samping -->
+[Media Playback 5](https://docs.google.com/uc?export=download&id=0Bw5yv1ANpbygQWVMZWg5cmJDVjA)
+
+**catatan:** Aplikasi masih belum sempurna, disempurnakan pada [MediaPlayback6.](https://github.com/Ainnaya/MediaPlayback6)
+
 # DESKRIPSI APLIKASI:
 Merupakan aplikasi kuis musik klasik yang di didalamnya terdapat pertanyaan-pertanyaan siapa komposer dari
 musik yang sedang dimainkan. Lalu pemain akan menebak siapa penciptanya dengan mengklik salah 1 jawaban
